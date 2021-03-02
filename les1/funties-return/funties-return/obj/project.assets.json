@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MA\\Bewijzenmap\\Leerjaar 1\\Periode 3\\F1M3-CSharp\\les3\\classes\\les1cs\\les1cs.csproj",
-      "projectName": "les1cs",
-      "projectPath": "D:\\MA\\Bewijzenmap\\Leerjaar 1\\Periode 3\\F1M3-CSharp\\les3\\classes\\les1cs\\les1cs.csproj",
+      "projectUniqueName": "D:\\MA\\Bewijzenmap\\Leerjaar 1\\Periode 3\\F1M3-CSharp\\les1\\funties-return\\funties-return\\funties-return.csproj",
+      "projectName": "funties-return",
+      "projectPath": "D:\\MA\\Bewijzenmap\\Leerjaar 1\\Periode 3\\F1M3-CSharp\\les1\\funties-return\\funties-return\\funties-return.csproj",
       "packagesPath": "C:\\Users\\sam00\\.nuget\\packages\\",
-      "outputPath": "D:\\MA\\Bewijzenmap\\Leerjaar 1\\Periode 3\\F1M3-CSharp\\les3\\classes\\les1cs\\obj\\",
+      "outputPath": "D:\\MA\\Bewijzenmap\\Leerjaar 1\\Periode 3\\F1M3-CSharp\\les1\\funties-return\\funties-return\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sam00\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,13 @@
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\funties-return\funties-return\obj\Debug\netcoreapp3.1\funties-return.csprojAssemblyReference.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\funties-return\funties-return\obj\Debug\netcoreapp3.1\funties-return.AssemblyInfoInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\funties-return\funties-return\obj\Debug\netcoreapp3.1\funties-return.AssemblyInfo.cs
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\funties-return\funties-return\obj\Debug\netcoreapp3.1\funties-return.csproj.CoreCompileInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\funties-return\funties-return\bin\Debug\netcoreapp3.1\funties-return.exe
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\funties-return\funties-return\bin\Debug\netcoreapp3.1\funties-return.deps.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\funties-return\funties-return\bin\Debug\netcoreapp3.1\funties-return.runtimeconfig.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\funties-return\funties-return\bin\Debug\netcoreapp3.1\funties-return.runtimeconfig.dev.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\funties-return\funties-return\bin\Debug\netcoreapp3.1\funties-return.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\funties-return\funties-return\bin\Debug\netcoreapp3.1\funties-return.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\funties-return\funties-return\obj\Debug\netcoreapp3.1\funties-return.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\funties-return\funties-return\obj\Debug\netcoreapp3.1\funties-return.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\funties-return\funties-return\obj\Debug\netcoreapp3.1\funties-return.genruntimeconfig.cache
