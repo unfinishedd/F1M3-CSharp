@@ -1,0 +1,13 @@
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\2-3-2021\FirstClassesApp\FirstClassesApp\bin\Debug\netcoreapp3.1\FirstClassesApp.exe
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\2-3-2021\FirstClassesApp\FirstClassesApp\bin\Debug\netcoreapp3.1\FirstClassesApp.deps.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\2-3-2021\FirstClassesApp\FirstClassesApp\bin\Debug\netcoreapp3.1\FirstClassesApp.runtimeconfig.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\2-3-2021\FirstClassesApp\FirstClassesApp\bin\Debug\netcoreapp3.1\FirstClassesApp.runtimeconfig.dev.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\2-3-2021\FirstClassesApp\FirstClassesApp\bin\Debug\netcoreapp3.1\FirstClassesApp.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\2-3-2021\FirstClassesApp\FirstClassesApp\bin\Debug\netcoreapp3.1\FirstClassesApp.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\2-3-2021\FirstClassesApp\FirstClassesApp\obj\Debug\netcoreapp3.1\FirstClassesApp.csprojAssemblyReference.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\2-3-2021\FirstClassesApp\FirstClassesApp\obj\Debug\netcoreapp3.1\FirstClassesApp.AssemblyInfoInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\2-3-2021\FirstClassesApp\FirstClassesApp\obj\Debug\netcoreapp3.1\FirstClassesApp.AssemblyInfo.cs
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\2-3-2021\FirstClassesApp\FirstClassesApp\obj\Debug\netcoreapp3.1\FirstClassesApp.csproj.CoreCompileInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\2-3-2021\FirstClassesApp\FirstClassesApp\obj\Debug\netcoreapp3.1\FirstClassesApp.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\2-3-2021\FirstClassesApp\FirstClassesApp\obj\Debug\netcoreapp3.1\FirstClassesApp.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\2-3-2021\FirstClassesApp\FirstClassesApp\obj\Debug\netcoreapp3.1\FirstClassesApp.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-FLEX\flex-CSharp\les1\les1cs\les1cs\obj\Debug\netcoreapp3.1\les1cs.csprojAssemblyReference.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-FLEX\flex-CSharp\les1\les1cs\les1cs\obj\Debug\netcoreapp3.1\les1cs.AssemblyInfoInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-FLEX\flex-CSharp\les1\les1cs\les1cs\obj\Debug\netcoreapp3.1\les1cs.AssemblyInfo.cs
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-FLEX\flex-CSharp\les1\les1cs\les1cs\obj\Debug\netcoreapp3.1\les1cs.csproj.CoreCompileInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-FLEX\flex-CSharp\les1\les1cs\les1cs\bin\Debug\netcoreapp3.1\les1cs.exe
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-FLEX\flex-CSharp\les1\les1cs\les1cs\bin\Debug\netcoreapp3.1\les1cs.deps.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-FLEX\flex-CSharp\les1\les1cs\les1cs\bin\Debug\netcoreapp3.1\les1cs.runtimeconfig.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-FLEX\flex-CSharp\les1\les1cs\les1cs\bin\Debug\netcoreapp3.1\les1cs.runtimeconfig.dev.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-FLEX\flex-CSharp\les1\les1cs\les1cs\bin\Debug\netcoreapp3.1\les1cs.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-FLEX\flex-CSharp\les1\les1cs\les1cs\bin\Debug\netcoreapp3.1\les1cs.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-FLEX\flex-CSharp\les1\les1cs\les1cs\obj\Debug\netcoreapp3.1\les1cs.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-FLEX\flex-CSharp\les1\les1cs\les1cs\obj\Debug\netcoreapp3.1\les1cs.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-FLEX\flex-CSharp\les1\les1cs\les1cs\obj\Debug\netcoreapp3.1\les1cs.genruntimeconfig.cache
