@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MA\\Bewijzenmap\\Leerjaar 1\\Periode 3\\F1M3-CSharp\\hello-world!\\Les1CS-BO\\Les1CS-BO\\Les1CS-BO.csproj": {}
+    "D:\\MA\\Bewijzenmap\\Leerjaar 1\\Periode 3\\F1M3-CSharp\\in de les\\9-3-2021\\ArraysAndLoops\\ArraysAndLoops\\ArraysAndLoops.csproj": {}
   },
   "projects": {
-    "D:\\MA\\Bewijzenmap\\Leerjaar 1\\Periode 3\\F1M3-CSharp\\hello-world!\\Les1CS-BO\\Les1CS-BO\\Les1CS-BO.csproj": {
+    "D:\\MA\\Bewijzenmap\\Leerjaar 1\\Periode 3\\F1M3-CSharp\\in de les\\9-3-2021\\ArraysAndLoops\\ArraysAndLoops\\ArraysAndLoops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MA\\Bewijzenmap\\Leerjaar 1\\Periode 3\\F1M3-CSharp\\hello-world!\\Les1CS-BO\\Les1CS-BO\\Les1CS-BO.csproj",
-        "projectName": "Les1CS-BO",
-        "projectPath": "D:\\MA\\Bewijzenmap\\Leerjaar 1\\Periode 3\\F1M3-CSharp\\hello-world!\\Les1CS-BO\\Les1CS-BO\\Les1CS-BO.csproj",
+        "projectUniqueName": "D:\\MA\\Bewijzenmap\\Leerjaar 1\\Periode 3\\F1M3-CSharp\\in de les\\9-3-2021\\ArraysAndLoops\\ArraysAndLoops\\ArraysAndLoops.csproj",
+        "projectName": "ArraysAndLoops",
+        "projectPath": "D:\\MA\\Bewijzenmap\\Leerjaar 1\\Periode 3\\F1M3-CSharp\\in de les\\9-3-2021\\ArraysAndLoops\\ArraysAndLoops\\ArraysAndLoops.csproj",
         "packagesPath": "C:\\Users\\sam00\\.nuget\\packages\\",
-        "outputPath": "D:\\MA\\Bewijzenmap\\Leerjaar 1\\Periode 3\\F1M3-CSharp\\hello-world!\\Les1CS-BO\\Les1CS-BO\\obj\\",
+        "outputPath": "D:\\MA\\Bewijzenmap\\Leerjaar 1\\Periode 3\\F1M3-CSharp\\in de les\\9-3-2021\\ArraysAndLoops\\ArraysAndLoops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sam00\\AppData\\Roaming\\NuGet\\NuGet.Config",

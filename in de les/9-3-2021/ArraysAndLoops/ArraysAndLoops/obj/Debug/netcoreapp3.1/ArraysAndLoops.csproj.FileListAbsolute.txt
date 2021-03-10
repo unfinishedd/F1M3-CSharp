@@ -1,0 +1,13 @@
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\9-3-2021\ArraysAndLoops\ArraysAndLoops\bin\Debug\netcoreapp3.1\ArraysAndLoops.exe
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\9-3-2021\ArraysAndLoops\ArraysAndLoops\bin\Debug\netcoreapp3.1\ArraysAndLoops.deps.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\9-3-2021\ArraysAndLoops\ArraysAndLoops\bin\Debug\netcoreapp3.1\ArraysAndLoops.runtimeconfig.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\9-3-2021\ArraysAndLoops\ArraysAndLoops\bin\Debug\netcoreapp3.1\ArraysAndLoops.runtimeconfig.dev.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\9-3-2021\ArraysAndLoops\ArraysAndLoops\bin\Debug\netcoreapp3.1\ArraysAndLoops.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\9-3-2021\ArraysAndLoops\ArraysAndLoops\bin\Debug\netcoreapp3.1\ArraysAndLoops.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\9-3-2021\ArraysAndLoops\ArraysAndLoops\obj\Debug\netcoreapp3.1\ArraysAndLoops.csprojAssemblyReference.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\9-3-2021\ArraysAndLoops\ArraysAndLoops\obj\Debug\netcoreapp3.1\ArraysAndLoops.AssemblyInfoInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\9-3-2021\ArraysAndLoops\ArraysAndLoops\obj\Debug\netcoreapp3.1\ArraysAndLoops.AssemblyInfo.cs
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\9-3-2021\ArraysAndLoops\ArraysAndLoops\obj\Debug\netcoreapp3.1\ArraysAndLoops.csproj.CoreCompileInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\9-3-2021\ArraysAndLoops\ArraysAndLoops\obj\Debug\netcoreapp3.1\ArraysAndLoops.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\9-3-2021\ArraysAndLoops\ArraysAndLoops\obj\Debug\netcoreapp3.1\ArraysAndLoops.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\9-3-2021\ArraysAndLoops\ArraysAndLoops\obj\Debug\netcoreapp3.1\ArraysAndLoops.genruntimeconfig.cache

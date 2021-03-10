@@ -24,3 +24,16 @@ D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\Les1CS-BO\Les1CS-BO\bin\
 D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\Les1CS-BO\Les1CS-BO\bin\Debug\netcoreapp3.1\Les1CS-BO.dll
 D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\Les1CS-BO\Les1CS-BO\bin\Debug\netcoreapp3.1\Les1CS-BO.pdb
 D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\Les1CS-BO\Les1CS-BO\obj\Debug\netcoreapp3.1\Les1CS-BO.genruntimeconfig.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\hello-world!\Les1CS-BO\Les1CS-BO\bin\Debug\netcoreapp3.1\Les1CS-BO.exe
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\hello-world!\Les1CS-BO\Les1CS-BO\bin\Debug\netcoreapp3.1\Les1CS-BO.deps.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\hello-world!\Les1CS-BO\Les1CS-BO\bin\Debug\netcoreapp3.1\Les1CS-BO.runtimeconfig.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\hello-world!\Les1CS-BO\Les1CS-BO\bin\Debug\netcoreapp3.1\Les1CS-BO.runtimeconfig.dev.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\hello-world!\Les1CS-BO\Les1CS-BO\bin\Debug\netcoreapp3.1\Les1CS-BO.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\hello-world!\Les1CS-BO\Les1CS-BO\bin\Debug\netcoreapp3.1\Les1CS-BO.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\hello-world!\Les1CS-BO\Les1CS-BO\obj\Debug\netcoreapp3.1\Les1CS-BO.csprojAssemblyReference.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\hello-world!\Les1CS-BO\Les1CS-BO\obj\Debug\netcoreapp3.1\Les1CS-BO.AssemblyInfoInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\hello-world!\Les1CS-BO\Les1CS-BO\obj\Debug\netcoreapp3.1\Les1CS-BO.AssemblyInfo.cs
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\hello-world!\Les1CS-BO\Les1CS-BO\obj\Debug\netcoreapp3.1\Les1CS-BO.csproj.CoreCompileInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\hello-world!\Les1CS-BO\Les1CS-BO\obj\Debug\netcoreapp3.1\Les1CS-BO.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\hello-world!\Les1CS-BO\Les1CS-BO\obj\Debug\netcoreapp3.1\Les1CS-BO.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\hello-world!\Les1CS-BO\Les1CS-BO\obj\Debug\netcoreapp3.1\Les1CS-BO.genruntimeconfig.cache
