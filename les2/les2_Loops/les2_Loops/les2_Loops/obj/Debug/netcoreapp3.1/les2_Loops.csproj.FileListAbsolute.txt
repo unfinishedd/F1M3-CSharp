@@ -1,0 +1,13 @@
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_Loops\les2_Loops\les2_Loops\bin\Debug\netcoreapp3.1\les2_Loops.exe
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_Loops\les2_Loops\les2_Loops\bin\Debug\netcoreapp3.1\les2_Loops.deps.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_Loops\les2_Loops\les2_Loops\bin\Debug\netcoreapp3.1\les2_Loops.runtimeconfig.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_Loops\les2_Loops\les2_Loops\bin\Debug\netcoreapp3.1\les2_Loops.runtimeconfig.dev.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_Loops\les2_Loops\les2_Loops\bin\Debug\netcoreapp3.1\les2_Loops.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_Loops\les2_Loops\les2_Loops\bin\Debug\netcoreapp3.1\les2_Loops.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_Loops\les2_Loops\les2_Loops\obj\Debug\netcoreapp3.1\les2_Loops.csprojAssemblyReference.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_Loops\les2_Loops\les2_Loops\obj\Debug\netcoreapp3.1\les2_Loops.AssemblyInfoInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_Loops\les2_Loops\les2_Loops\obj\Debug\netcoreapp3.1\les2_Loops.AssemblyInfo.cs
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_Loops\les2_Loops\les2_Loops\obj\Debug\netcoreapp3.1\les2_Loops.csproj.CoreCompileInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_Loops\les2_Loops\les2_Loops\obj\Debug\netcoreapp3.1\les2_Loops.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_Loops\les2_Loops\les2_Loops\obj\Debug\netcoreapp3.1\les2_Loops.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_Loops\les2_Loops\les2_Loops\obj\Debug\netcoreapp3.1\les2_Loops.genruntimeconfig.cache

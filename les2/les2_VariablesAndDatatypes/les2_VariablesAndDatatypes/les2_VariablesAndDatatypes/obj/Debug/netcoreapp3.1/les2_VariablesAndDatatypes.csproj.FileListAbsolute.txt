@@ -1,0 +1,13 @@
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\bin\Debug\netcoreapp3.1\les2_VariablesAndDatatypes.exe
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\bin\Debug\netcoreapp3.1\les2_VariablesAndDatatypes.deps.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\bin\Debug\netcoreapp3.1\les2_VariablesAndDatatypes.runtimeconfig.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\bin\Debug\netcoreapp3.1\les2_VariablesAndDatatypes.runtimeconfig.dev.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\bin\Debug\netcoreapp3.1\les2_VariablesAndDatatypes.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\bin\Debug\netcoreapp3.1\les2_VariablesAndDatatypes.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\obj\Debug\netcoreapp3.1\les2_VariablesAndDatatypes.csprojAssemblyReference.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\obj\Debug\netcoreapp3.1\les2_VariablesAndDatatypes.AssemblyInfoInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\obj\Debug\netcoreapp3.1\les2_VariablesAndDatatypes.AssemblyInfo.cs
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\obj\Debug\netcoreapp3.1\les2_VariablesAndDatatypes.csproj.CoreCompileInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\obj\Debug\netcoreapp3.1\les2_VariablesAndDatatypes.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\obj\Debug\netcoreapp3.1\les2_VariablesAndDatatypes.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\les2_VariablesAndDatatypes\obj\Debug\netcoreapp3.1\les2_VariablesAndDatatypes.genruntimeconfig.cache

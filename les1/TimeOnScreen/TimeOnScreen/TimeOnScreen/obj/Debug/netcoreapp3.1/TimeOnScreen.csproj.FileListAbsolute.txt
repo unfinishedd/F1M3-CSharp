@@ -1,0 +1,13 @@
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\TimeOnScreen\TimeOnScreen\TimeOnScreen\obj\Debug\netcoreapp3.1\TimeOnScreen.csprojAssemblyReference.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\TimeOnScreen\TimeOnScreen\TimeOnScreen\obj\Debug\netcoreapp3.1\TimeOnScreen.AssemblyInfoInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\TimeOnScreen\TimeOnScreen\TimeOnScreen\obj\Debug\netcoreapp3.1\TimeOnScreen.AssemblyInfo.cs
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\TimeOnScreen\TimeOnScreen\TimeOnScreen\obj\Debug\netcoreapp3.1\TimeOnScreen.csproj.CoreCompileInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\TimeOnScreen\TimeOnScreen\TimeOnScreen\bin\Debug\netcoreapp3.1\TimeOnScreen.exe
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\TimeOnScreen\TimeOnScreen\TimeOnScreen\bin\Debug\netcoreapp3.1\TimeOnScreen.deps.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\TimeOnScreen\TimeOnScreen\TimeOnScreen\bin\Debug\netcoreapp3.1\TimeOnScreen.runtimeconfig.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\TimeOnScreen\TimeOnScreen\TimeOnScreen\bin\Debug\netcoreapp3.1\TimeOnScreen.runtimeconfig.dev.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\TimeOnScreen\TimeOnScreen\TimeOnScreen\bin\Debug\netcoreapp3.1\TimeOnScreen.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\TimeOnScreen\TimeOnScreen\TimeOnScreen\bin\Debug\netcoreapp3.1\TimeOnScreen.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\TimeOnScreen\TimeOnScreen\TimeOnScreen\obj\Debug\netcoreapp3.1\TimeOnScreen.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\TimeOnScreen\TimeOnScreen\TimeOnScreen\obj\Debug\netcoreapp3.1\TimeOnScreen.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\TimeOnScreen\TimeOnScreen\TimeOnScreen\obj\Debug\netcoreapp3.1\TimeOnScreen.genruntimeconfig.cache

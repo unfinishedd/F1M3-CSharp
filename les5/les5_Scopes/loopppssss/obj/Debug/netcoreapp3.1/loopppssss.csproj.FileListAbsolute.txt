@@ -1,0 +1,13 @@
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\16-3-2021\loopppssss\loopppssss\bin\Debug\netcoreapp3.1\loopppssss.exe
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\16-3-2021\loopppssss\loopppssss\bin\Debug\netcoreapp3.1\loopppssss.deps.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\16-3-2021\loopppssss\loopppssss\bin\Debug\netcoreapp3.1\loopppssss.runtimeconfig.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\16-3-2021\loopppssss\loopppssss\bin\Debug\netcoreapp3.1\loopppssss.runtimeconfig.dev.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\16-3-2021\loopppssss\loopppssss\bin\Debug\netcoreapp3.1\loopppssss.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\16-3-2021\loopppssss\loopppssss\bin\Debug\netcoreapp3.1\loopppssss.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\16-3-2021\loopppssss\loopppssss\obj\Debug\netcoreapp3.1\loopppssss.csprojAssemblyReference.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\16-3-2021\loopppssss\loopppssss\obj\Debug\netcoreapp3.1\loopppssss.AssemblyInfoInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\16-3-2021\loopppssss\loopppssss\obj\Debug\netcoreapp3.1\loopppssss.AssemblyInfo.cs
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\16-3-2021\loopppssss\loopppssss\obj\Debug\netcoreapp3.1\loopppssss.csproj.CoreCompileInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\16-3-2021\loopppssss\loopppssss\obj\Debug\netcoreapp3.1\loopppssss.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\16-3-2021\loopppssss\loopppssss\obj\Debug\netcoreapp3.1\loopppssss.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\in de les\16-3-2021\loopppssss\loopppssss\obj\Debug\netcoreapp3.1\loopppssss.genruntimeconfig.cache

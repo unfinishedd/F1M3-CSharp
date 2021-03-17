@@ -1,0 +1,13 @@
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_LinearSearch\les2_LinearSearch\les2_LinearSearch\bin\Debug\netcoreapp3.1\les2_LinearSearch.exe
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_LinearSearch\les2_LinearSearch\les2_LinearSearch\bin\Debug\netcoreapp3.1\les2_LinearSearch.deps.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_LinearSearch\les2_LinearSearch\les2_LinearSearch\bin\Debug\netcoreapp3.1\les2_LinearSearch.runtimeconfig.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_LinearSearch\les2_LinearSearch\les2_LinearSearch\bin\Debug\netcoreapp3.1\les2_LinearSearch.runtimeconfig.dev.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_LinearSearch\les2_LinearSearch\les2_LinearSearch\bin\Debug\netcoreapp3.1\les2_LinearSearch.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_LinearSearch\les2_LinearSearch\les2_LinearSearch\bin\Debug\netcoreapp3.1\les2_LinearSearch.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_LinearSearch\les2_LinearSearch\les2_LinearSearch\obj\Debug\netcoreapp3.1\les2_LinearSearch.csprojAssemblyReference.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_LinearSearch\les2_LinearSearch\les2_LinearSearch\obj\Debug\netcoreapp3.1\les2_LinearSearch.AssemblyInfoInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_LinearSearch\les2_LinearSearch\les2_LinearSearch\obj\Debug\netcoreapp3.1\les2_LinearSearch.AssemblyInfo.cs
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_LinearSearch\les2_LinearSearch\les2_LinearSearch\obj\Debug\netcoreapp3.1\les2_LinearSearch.csproj.CoreCompileInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_LinearSearch\les2_LinearSearch\les2_LinearSearch\obj\Debug\netcoreapp3.1\les2_LinearSearch.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_LinearSearch\les2_LinearSearch\les2_LinearSearch\obj\Debug\netcoreapp3.1\les2_LinearSearch.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les2\les2_LinearSearch\les2_LinearSearch\les2_LinearSearch\obj\Debug\netcoreapp3.1\les2_LinearSearch.genruntimeconfig.cache

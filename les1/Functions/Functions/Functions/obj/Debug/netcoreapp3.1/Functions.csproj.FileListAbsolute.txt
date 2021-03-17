@@ -1,0 +1,13 @@
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\Functions\Functions\Functions\obj\Debug\netcoreapp3.1\Functions.csprojAssemblyReference.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\Functions\Functions\Functions\obj\Debug\netcoreapp3.1\Functions.AssemblyInfoInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\Functions\Functions\Functions\obj\Debug\netcoreapp3.1\Functions.AssemblyInfo.cs
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\Functions\Functions\Functions\obj\Debug\netcoreapp3.1\Functions.csproj.CoreCompileInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\Functions\Functions\Functions\bin\Debug\netcoreapp3.1\Functions.exe
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\Functions\Functions\Functions\bin\Debug\netcoreapp3.1\Functions.deps.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\Functions\Functions\Functions\bin\Debug\netcoreapp3.1\Functions.runtimeconfig.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\Functions\Functions\Functions\bin\Debug\netcoreapp3.1\Functions.runtimeconfig.dev.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\Functions\Functions\Functions\bin\Debug\netcoreapp3.1\Functions.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\Functions\Functions\Functions\bin\Debug\netcoreapp3.1\Functions.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\Functions\Functions\Functions\obj\Debug\netcoreapp3.1\Functions.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\Functions\Functions\Functions\obj\Debug\netcoreapp3.1\Functions.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les1\Functions\Functions\Functions\obj\Debug\netcoreapp3.1\Functions.genruntimeconfig.cache

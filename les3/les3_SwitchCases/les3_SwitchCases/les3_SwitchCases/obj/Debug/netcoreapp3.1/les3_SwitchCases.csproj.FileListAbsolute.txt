@@ -1,0 +1,13 @@
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les3\les3_SwitchCases\les3_SwitchCases\les3_SwitchCases\bin\Debug\netcoreapp3.1\les3_SwitchCases.exe
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les3\les3_SwitchCases\les3_SwitchCases\les3_SwitchCases\bin\Debug\netcoreapp3.1\les3_SwitchCases.deps.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les3\les3_SwitchCases\les3_SwitchCases\les3_SwitchCases\bin\Debug\netcoreapp3.1\les3_SwitchCases.runtimeconfig.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les3\les3_SwitchCases\les3_SwitchCases\les3_SwitchCases\bin\Debug\netcoreapp3.1\les3_SwitchCases.runtimeconfig.dev.json
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les3\les3_SwitchCases\les3_SwitchCases\les3_SwitchCases\bin\Debug\netcoreapp3.1\les3_SwitchCases.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les3\les3_SwitchCases\les3_SwitchCases\les3_SwitchCases\bin\Debug\netcoreapp3.1\les3_SwitchCases.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les3\les3_SwitchCases\les3_SwitchCases\les3_SwitchCases\obj\Debug\netcoreapp3.1\les3_SwitchCases.csprojAssemblyReference.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les3\les3_SwitchCases\les3_SwitchCases\les3_SwitchCases\obj\Debug\netcoreapp3.1\les3_SwitchCases.AssemblyInfoInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les3\les3_SwitchCases\les3_SwitchCases\les3_SwitchCases\obj\Debug\netcoreapp3.1\les3_SwitchCases.AssemblyInfo.cs
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les3\les3_SwitchCases\les3_SwitchCases\les3_SwitchCases\obj\Debug\netcoreapp3.1\les3_SwitchCases.csproj.CoreCompileInputs.cache
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les3\les3_SwitchCases\les3_SwitchCases\les3_SwitchCases\obj\Debug\netcoreapp3.1\les3_SwitchCases.dll
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les3\les3_SwitchCases\les3_SwitchCases\les3_SwitchCases\obj\Debug\netcoreapp3.1\les3_SwitchCases.pdb
+D:\MA\Bewijzenmap\Leerjaar 1\Periode 3\F1M3-CSharp\les3\les3_SwitchCases\les3_SwitchCases\les3_SwitchCases\obj\Debug\netcoreapp3.1\les3_SwitchCases.genruntimeconfig.cache
